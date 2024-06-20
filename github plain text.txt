@@ -1,4 +1,4 @@
-﻿Tuesday
+Tuesday
 12:44 learn GitHub
 1:24  Upload GitHub file 
 2: 35 I read a paper on pre dialysis clinical pathways 
@@ -60,6 +60,7 @@ Study Financial and Insurance Aspects of Dialysis
 Evaluate Nutrition and Hydration Management for Dialysis Patients 
 7:00 PM - 8:00 PM
 Summarize Research and Prepare Recommendations
+
 Tuesday
 10:00 AM - 11:45 AM
 Organize Information gathered so far 
@@ -77,3 +78,59 @@ Proofread and Correct  Text
  Research Context and Importance of Each Question
 7:00 pm  - 8:00 pm
  Develop a Summary Section for the Document
+
+Thursday
+10:00 AM - 11:45 AM
+brainstormed potential implementation strategies.
+12:00 PM - 1:00 PM
+Virtual meeting with team members
+Discussed project timelines and milestones.
+1:00 PM - 2:00 PM
+team feedback for iterative improvements.
+2:00 PM - 3:00 PM
+Brainstormed usability issues
+3:00 PM - 4:00 PM
+brainstormed potential enhancements.
+4:00 PM - 5:00 PM
+Brainstormed ways to make AI more friendly
+6:00 PM - 7:00 PM
+Explored applications of AI in healthcare.
+7:00 PM - 8:00 PM
+Gathered the information together
+
+Saturday
+10:00 AM - 11:45 AM
+Watched videos released to AI integration
+12:00 PM - 1:00 PM
+Researched talking to geriatric patients 
+1:00 PM - 2:00 PM
+Researched talking to geriatric paitents  
+2:00 PM - 3:00 PM
+Explored AI-enhanced questioning techniques
+3:00 PM - 4:00 PM
+Explored AI-enhanced questioning techniques
+4:00 PM - 5:00 PM
+Evaluated accuracy and reliability of AI predictions.
+6:00 PM - 7:00 PM
+Explored ethical dilemmas in AI adoption within medical practice.
+7:00 PM - 8:00 PM
+Created a summary of knowledge found 
+
+Sunday
+10:00 AM - 11:45 AM
+Explored AI-driven interventions for anxiety and depression.
+12:00 PM - 1:00 PM
+Discussed the integration of AI in diagnostic workflows.
+1:00 PM - 2:00 PM
+Conducted simulations of AI-enhanced patient monitoring:
+Simulated scenarios to test AI's ability to detect health anomalies.
+2:00 PM - 3:00 PM
+Discussed ethical considerations in AI adoption for elderly healthcare.
+3:00 PM - 4:00 PM
+Explored AI's role in predictive medicine
+4:00 PM - 5:00 PM
+Evaluated the potential impact of AI on personalized healthcare.
+6:00 PM - 7:00 PM
+Research the balance between AI efficiency and patient-centered care.
+7:00 PM - 8:00 PM
+Summarized key takeaways from the day's research and discussions. 
