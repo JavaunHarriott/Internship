@@ -1,3 +1,4 @@
+06/04/24
 Tuesday
 12:44 learn GitHub
 1:24  Upload GitHub file 
@@ -9,6 +10,8 @@ Tuesday
 7:23 made notes on cognitive behavioral strategies in hemodialysis 
 8: 20 read another paper on geriatric assessment in chronic kidney failure 
 9:02 made additional notes 
+
+06/06/24
 Thursday
 10:00 AM - 11:00 AM
  Literature on Dialysis Patient Education Programs
@@ -28,6 +31,8 @@ Review Case Studies on Dialysis-Related Complications
 Make Notes on Dialysis Patient Education Programs and Innovations
 7:00 PM - 8:00 PM
 Summarize the Day’s Research and Prepare for Next Steps
+
+06/08/24
 Saturday 
 10: 00 research Patient Interview and Initial Data Collection
 11:02 Review Past Medical History of different patients 
@@ -40,6 +45,8 @@ Saturday
 6:10 Research Specialist Consultations and Care Coordination 
 7:50 Final Documentation and Plan 
 8:01 Review document 
+
+06/09/24
 Sunday 10:00 AM - 11:00 AM
 Review Current Guidelines for Dialysis Initiation
  11:00 AM - 12:00 PM
@@ -61,7 +68,9 @@ Evaluate Nutrition and Hydration Management for Dialysis Patients
 7:00 PM - 8:00 PM
 Summarize Research and Prepare Recommendations
 
+06/11/24
 Tuesday
+
 10:00 AM - 11:45 AM
 Organize Information gathered so far 
 12:00 pm - 1:00 pm 
@@ -79,7 +88,9 @@ Proofread and Correct  Text
 7:00 pm  - 8:00 pm
  Develop a Summary Section for the Document
 
+06/13/24
 Thursday
+
 10:00 AM - 11:45 AM
 brainstormed potential implementation strategies.
 12:00 PM - 1:00 PM
@@ -98,7 +109,9 @@ Explored applications of AI in healthcare.
 7:00 PM - 8:00 PM
 Gathered the information together
 
+06/15/24
 Saturday
+
 10:00 AM - 11:45 AM
 Watched videos released to AI integration
 12:00 PM - 1:00 PM
@@ -116,7 +129,9 @@ Explored ethical dilemmas in AI adoption within medical practice.
 7:00 PM - 8:00 PM
 Created a summary of knowledge found 
 
+06/16/24
 Sunday
+
 10:00 AM - 11:45 AM
 Explored AI-driven interventions for anxiety and depression.
 12:00 PM - 1:00 PM
@@ -135,7 +150,9 @@ Research the balance between AI efficiency and patient-centered care.
 7:00 PM - 8:00 PM
 Summarized key takeaways from the day's research and discussions. 
 
+06/18/24
 Tuesday
+
 10:00 AM - 11:45 AM
 Brainstormed potential implementation strategies.
 12:00 PM - 1:00 PM
@@ -153,7 +170,10 @@ Brainstormed ways to make AI more friendly.
 Explored applications of AI in healthcare.
 7:00 PM - 8:00 PM
 Gathered the information together.
+
+06/20/24
 Thursday
+
 10:00 AM - 11:45 AM
 Brainstormed potential implementation strategies.
 12:00 PM - 1:00 PM
@@ -171,7 +191,10 @@ Brainstormed ways to make AI more friendly.
 Explored applications of AI in healthcare.
 7:00 PM - 8:00 PM
 Gathered the information together.
+
+06/22/24
 Saturday
+
 10:00 AM - 11:45 AM
 Watched videos released to AI integration.
 12:00 PM - 1:00 PM
@@ -188,7 +211,10 @@ Evaluated accuracy and reliability of AI predictions.
 Explored ethical dilemmas in AI adoption within medical practice.
 7:00 PM - 8:00 PM
 Created a summary of knowledge found.
+
+06/23/24
 Sunday
+
 10:00 AM - 11:45 AM
 Explored AI-driven interventions for anxiety and depression.
 12:00 PM - 1:00 PM
@@ -207,6 +233,7 @@ Researched the balance between AI efficiency and patient-centered care.
 7:00 PM - 8:00 PM
 Summarized key takeaways from the day's research and discussions.
 
+06/25/24
 Tuesday
 
 10:00am - 11:00am 
@@ -217,4 +244,13 @@ Create clarification answers
 Break
 1:30 pm to 2:00pm 
 Attend virtual meeting 
-
+2:00pm to 3:00 pm 
+Worked on finding difficult questions patients might ask
+3:00pm to 4:00 pm 
+Worked on finding difficult questions patients might ask
+5:00pm to 6:00 pm 
+Worked on finding difficult questions patients might ask
+6:00pm to 7:00 pm 
+Worked on finding difficult questions patients might ask
+07:00pm to 8:00 pm 
+Added my work to a file 
