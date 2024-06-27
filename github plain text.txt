@@ -267,3 +267,5 @@ Fine tuning ai responses
 Asked friends about possible responses to questions 
 1:00 pm to 2:00pm
 Recorded responses 
+2:00pm  - 3:00 pm
+Tailored responses to match with AI's capabilities 
