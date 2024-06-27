@@ -223,6 +223,7 @@ Discussed the integration of AI in diagnostic workflows.
 Conducted simulations of AI-enhanced patient monitoring:
 Simulated scenarios to test AI's ability to detect health anomalies.
 2:00 PM - 3:00 PM
+
 Discussed ethical considerations in AI adoption for elderly healthcare.
 3:00 PM - 4:00 PM
 Explored AI's role in predictive medicine.
@@ -254,3 +255,15 @@ Worked on finding difficult questions patients might ask
 Worked on finding difficult questions patients might ask
 07:00pm to 8:00 pm 
 Added my work to a file 
+
+06/27/24
+Thursday
+
+10:00 am -11:00 am 
+Fine tuning ai responses 
+11:00 am -12:00 pm
+Fine tuning ai responses 
+12:00 pm - 1:00 pm
+Asked friends about possible responses to questions 
+1:00 pm to 2:00pm
+Recorded responses 
