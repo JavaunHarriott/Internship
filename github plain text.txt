@@ -279,3 +279,31 @@ Created a summary on my findings
 Adjusted questions based on expected capabilities 
 7:00 pm - 8:00 pm 
 Completed variations of questions 
+
+06/28/24
+Saturday
+
+10:00 am - 11:00 am: Research recent patient interview techniques
+12:00 pm - 1:00 pm: Brainstorm potential changes for questions for AI patient interviews
+1:00 pm - 2:00 pm: Brainstorm potential changes for questions for AI patient interviews
+2:00 pm - 3:00 pm: Brainstorm potential changes for questions for AI patient interviews
+3:00 pm - 4:00 pm: Brainstorm potential changes for questions for AI patient interviews
+5:00 pm - 6:00 pm: Develop draft questions based on a person lifestyle
+6:00 pm - 7:00 pm: Develop draft questions based on a person lifestyle
+7:00 pm - 8:00 pm: Edit current questions 
+
+06/30/24
+Sunday 
+
+8:00 am - 9:00 am: Review natural language in patient interviews
+9:00 am - 10:00 am: Adapt questions to align with conversational style
+10:00 am - 12:00 pm: Test sample questions with AI 
+12:00 pm - 1:00 pm: Test sample questions with AI 
+1:00 pm - 3:00 pm: Analyze AI's responses and adjust questions accordingly
+3:00 pm - 5:00 pm: Refine question structure based on feedback from initial testing
+5:00 pm - 6:00 pm: Review ethical considerations and ensure patient privacy
+6:00 pm - 7:00 pm: Prepare documentation on finalized question sets
+7:00 pm - 8:00 pm: Prepare documentation on finalized question sets
+
+
+
