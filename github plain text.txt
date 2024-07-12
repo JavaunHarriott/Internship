@@ -295,15 +295,83 @@ Saturday
 06/30/24
 Sunday 
 
-8:00 am - 9:00 am: Review natural language in patient interviews
-9:00 am - 10:00 am: Adapt questions to align with conversational style
-10:00 am - 12:00 pm: Test sample questions with AI 
-12:00 pm - 1:00 pm: Test sample questions with AI 
-1:00 pm - 3:00 pm: Analyze AI's responses and adjust questions accordingly
-3:00 pm - 5:00 pm: Refine question structure based on feedback from initial testing
+10:00 am - 11:00 am: Review natural language in patient interviews
+11:00 am - 12:00 am: Adapt questions to align with conversational style
+12:00 am - 1:00 pm: Test sample questions with AI 
+2:00 pm - 3:00 pm: Test sample questions with AI 
+3:00 pm - 4:00 pm: Analyze AI's responses and adjust questions accordingly
+4:00 pm - 5:00 pm: Refine question structure based on feedback from initial testing
 5:00 pm - 6:00 pm: Review ethical considerations and ensure patient privacy
 6:00 pm - 7:00 pm: Prepare documentation on finalized question sets
 7:00 pm - 8:00 pm: Prepare documentation on finalized question sets
 
+07/01/24
+Monday 
+
+10:00 am - 11:00 am: Review previous work 
+11:00 am - 12:00 pm: adjusted format for some of the questions 
+12:00 pm - 1:00 pm: Search for flaws in current questions
+1:00 pm - 2:00 pm: Test sample questions with AI 
+2:00 pm - 3:00 pm: Started working on the updated version of the Questions 
+3:00 pm - 4:00 pm: Updated The first section of questions 
+5:00 pm - 6:00 pm: Updated The first section of questions 
+6:00 pm - 7:00 pm: Reviewed past documents 
+7:00 pm - 8:00 pm: finished first draft of questions 
+
+Thursday 
+07/04/24 
+
+Holiday 
+
+Saturday
+07/06/24
+
+10:00 am - 11:00 am: Reviewed existing question bank for inspiration
+11:00 am - 12:00 pm: Brainstormed new question ideas
+12:00 pm - 1:00 pm: Lunch break
+1:00 pm - 3:00 pm: Drafted new questions for section A
+3:00 pm - 4:00 pm: Tested sample questions with AI for section A
+4:00 pm - 5:00 pm: Reviewed AI feedback and refined questions
+5:00 pm - 6:00 pm: Continued drafting questions for section B
+6:00 pm - 7:00 pm: Tested sample questions with AI for section B
+7:00 pm - 8:00 pm: Documented testing results and identified improvements 
+
+Sunday 
+07/07/24
+
+10:00 am - 11:00 am: Reviewed and revised questions based on yesterday's testing for Section B
+11:00 am - 12:00 pm: Continued drafting and refining questions for Section B
+12:00 pm - 1:00 pm: Lunch break
+1:00 pm - 3:00 pm: Tested sample questions from Section B with AI
+3:00 pm - 4:00 pm: Analyzed AI-generated responses and adjusted questions for Section B
+4:00 pm - 5:00 pm: Continued drafting and refining questions for Section B
+5:00 pm - 6:00 pm: Tested revised questions from Section B with AI 
+
+Tuesday 
+07/09/24 
+
+10:00 AM - 11:00 AM: Reviewed common difficult questions from patient feedback and previous sessions.
+11:00 AM - 12:00 PM: Brainstormed and outlined potential answers to challenging patient inquiries.
+12:00 PM - 1:00 PM:  discuss strategies.
+1:00 PM - 2:00 PM: Continued drafting detailed answers to complex patient queries.
+2:00 PM - 3:00 PM: Tested sample answers with AI to refine responses for clarity and relevance.
+3:00 PM - 4:00 PM: Revised answers based on AI feedback and team input for improved accuracy and empathy.
+4:00 PM - 5:00 PM: Prepared documentation summarizing key patient concerns and corresponding answers.
+5:00 PM - 6:00 PM: Conducted final review of answers and made adjustments for consistency and effectiveness.
+6:00 PM - 7:00 PM: Prepared presentation slides for sharing answers with healthcare staff or training sessions.
+7:00 PM - 8:00 PM: Documented insights and lessons learned from the day’s work for future reference and improvement. 
+
+Thursday 
+07/11/24
+10:00 AM - 11:00 AM: Reviewed progress and outcomes of Section B questions.
+11:00 AM - 12:00 PM: Brainstormed and outlined structure for new section of questions.
+12:00 PM - 1:00 PM:  Brainstormed and outlined structure for new section of questions
+1:00 PM - 2:00 PM: started drafting questions for the new section, focusing on clarity and relevance.
+2:00 PM - 3:00 PM: continued drafting questions for the new section, focusing on clarity and relevance.
+3:00 PM - 4:00 PM: Tested initial sample questions with AI to gauge effectiveness and refine approach.
+4:00 PM - 5:00 PM: Continued drafting and refining questions for the new section based on AI feedback.
+5:00 PM - 6:00 PM: Reviewed and finalized draft questions for the new section, ensuring consistency with overall goals.
+6:00 PM - 7:00 PM: Brainstormed potential enhancements and innovative ideas for the new section.
+7:00 PM - 8:00 PM: Documented progress made on the new section, including insights and next steps for further development.
 
 
